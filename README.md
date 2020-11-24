@@ -8,8 +8,8 @@ in order to simulate a product development procces (DevOps).
 # Coding File
 The coding file (JSP) is a basic web Calculator.
 supporting Addition, Multiplication and Division.
-first window - input of values and selecting function.
-second window - displaying result and additional button whom enable to returning to the first window.
+index: first window - input of values and selecting function.
+a: second window - displaying result and additional button whom enable to returning to the first window.
 
 # Tools & Pltforms:
 Git - *Push* the coding file to git acount.
